@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(253, 253, 253, 0.845);
+}
+
+p {
+    margin: 0px;
+}
+
+h2 {
+    color: rgb(50, 50, 50);
+}
