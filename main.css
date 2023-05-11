@@ -75,7 +75,7 @@
 
 .intro-page-btn:hover {
     border-radius: 20px;
-    border: 1px solid #2058a7;
+    text-shadow: 1px 1px #2058a7;
     font-style: normal;
     text-decoration: none;
     cursor: pointer;
